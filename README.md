@@ -8,35 +8,41 @@ This repo currently contains over 60 files. Some are different encodings of the 
 
 | ext  | File Type              | File Name            |  Tags        |
 |------|--------------------------|-------------------|-------------|
+| .abap | abap | ffc.abap | code |
+| .as | actionscript | ffc.as | code |
+| .ada | ada | ffc.ada | code |
+| .asciidoc | AsciiDoc | ffc.asciidoc | code |
+| .asm | assembly_x86 | ffc.asm | code |
+| .ahk | autohotkey | ffc.ahk | code |
+| .bat | batchfile | ffc.bat | code |
 | .bmp | Windows bitmap | ffc.bmp | images |
-| .css | css | ffc.css | code |
+| .cpp | c_cpp | ffc.cpp | code |
+| .cpp | cpp | ffc.cpp | code |
 | .csv | Comma-Separated Values | ffc.csv | data |
 | .dbf | DataBase File | ffc.dbf | data |
 | .dcm | Digital Imaging and Communications in Medicine | ffc.dcm | image |
 | .dif | Data Interchange Format | ffc.dif | data |
-| .doc | Microsoft 6.0 Document | ffc_6.doc | text, Microsoft, document |
-| .doc | Microsoft 95 Document | ffc_95.doc | text, Microsoft, document |
-| .doc | Microsoft 97, 2000, and XP Document | ffc_97_2000_xp.doc | text, Microsoft, document |
-| .docx | Open XML Microsoft document | ffc.docx | text, Microsoft, document |
+| .doc | Microsoft 6.0 Document | ffc_6.doc | text, Microsoft |
+| .doc | Microsoft 95 Document | ffc_95.doc | text, Microsoft |
+| .doc | Microsoft 97, 2000, and XP Document | ffc_97_2000_xp.doc | text, Microsoft |
+| .docx | Open XML Microsoft document | ffc.docx | text, Microsoft |
 | .dta | STATA Data Version 12 | ffc_12.dta | data |
 | .dta | STATA Data Version 13 | ffc_13.dta | data |
+| .eps | Ecapsulated PostScript | ffc.eps | image |
 | .gif | Graphics Interchange Format | ffc.gif | images |
-| .html | HyperText Markup Language | fcc.html | code |
+| .html | HyperText Markup Language | ffc.html | code |
 | .iff | Interchange File Format | ffc.iff | image |
-| .ipynb | IPython Notebook | ffc.ipynb | code |
 | .jpg, jpeg | Joint Photographic Experts Group | ffc.jpg | images |
-| .js | JavaScript programming language | fcc.js | code |
-| .json | JavaScript Object Notation | ffc.json | data, code |
-| .mako | Mako Python template engine | None! | code |
 | .ods | Open Office Spreadsheet | ffc.ods | data |
 | .odt | Open Office Text Document | ffc.odt | text |
-| .ots | Open Office Spreadsheet Template | ffc.odt | data |
+| .ots | Open Office Spreadsheet Template | ffc.ots | data |
 | .ott | Open Office Text Template | ffc.ott | text |
 | .pbm | Netpbm format | ffc.pbm | image |
 | .pict, .pic, .pct | Macintosh picture metafile | ffc.pct | image |
 | .pcx | Personal Computer Exchange | ffc.pcx | image |
 | .pdb | AportisDoc (Palm) | ffc_palm.pdb | text |
 | .pdf | Portable Document Format | ffc.pdf | text |
+| .txt | plaintext | ffc.txt | code |
 | .png | Portable Network Graphics | ffc.png | images |
 | .ppt | Microsoft PowerPoint | ffc.ppt | image, Microsoft |
 | .pptx | Open XML Microsoft PowerPoint | ffc.pptx | image, Microsoft |
@@ -44,8 +50,8 @@ This repo currently contains over 60 files. Some are different encodings of the 
 | .psd | Photoshop document | ffc.psd | image |
 | .psw | Pocket Word | ffc.psw | text |
 | .pxr | Pixar Image Computer | ffc.pxr | image |
+| .py | Python programming language | ffc.py | code |
 | .py | python | ffc.py | code |
-| .r | r | ffc.r | code |
 | .R | R programming language | ffc.R | code |
 | .raw | Photoshop Raw File | ffc.raw | image |
 | .RData | Stored R Object | ffc.RData | code |
@@ -69,5 +75,4 @@ This repo currently contains over 60 files. Some are different encodings of the 
 | .xls | Excel Binary | ffc.xls | data, Microsoft |
 | .xlsx | Open XML Microsoft spreadsheet | ffc.xlsx | data, Microsoft |
 | .xml | xml | ffc.xml | code |
-| .xml | XML Docbook | ffc_docbook.xml | text |
 | .xml | Microsoft Word 2003 XML | ffc_word_2003.xml | text, Microsoft |
