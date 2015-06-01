@@ -1,10 +1,10 @@
 # file-format-commons
 This repo contains sample files of various file format. This project originated when I needed a variety of sample files of various web-renderable types (e.g., xlsx, csv, images, etc).
 
-file_info.json contains four things: 
+file_info.json contains four things(seen below): 
     name, tags, ext (extention), and download (file name in the files folder).
 
-The database currently contains over 60 files. Some are different encodings of the same file type. 
+This repo currently contains over 60 files. Some are different encodings of the same file type as you can see below (see ".doc" below for an example).
 
 | ext  | File Type              | File Name            |  Tags        |
 |------|--------------------------|-------------------|-------------|
@@ -36,7 +36,6 @@ The database currently contains over 60 files. Some are different encodings of t
 | .pict, .pic, .pct | Macintosh picture metafile | ffc.pct | image |
 | .pcx | Personal Computer Exchange | ffc.pcx | image |
 | .pdb | AportisDoc (Palm) | ffc_palm.pdb | text |
-| .pdb | Protein Data Bank File | 1mbs.pdb | science |
 | .pdf | Portable Document Format | ffc.pdf | text |
 | .png | Portable Network Graphics | ffc.png | images |
 | .ppt | Microsoft PowerPoint | ffc.ppt | image, Microsoft |
