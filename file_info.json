@@ -1,1 +1,555 @@
-{"spv_basic": {"file_kind": ["program data"], "tags": ["data"], "download": "ffc.spv", "name": "SPSS Output File", "ext": ".spv", "usability": "low"}, "odt_basic": {"file_kind": ["document"], "tags": ["text"], "download": "ffc.odt", "name": "Open Office Text Document", "ext": ".odt"}, "csv_basic": {"file_kind": ["data frame"], "tags": ["data"], "download": "ffc.csv", "name": "Comma-Separated Values", "ext": ".csv"}, "pxr_basic": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.pxr", "name": "Pixar Image Computer", "ext": ".pxr"}, "stc_basic": {"file_kind": ["template"], "tags": ["data"], "download": "ffc.stc", "name": "Open Office XML Spreadsheet Template", "ext": ".stc"}, "uot_1": {"file_kind": ["text"], "tags": ["text"], "download": "ffc_1.uot", "name": "Uniform Office Format Text", "ext": ".uot"}, "raw_ps": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.raw", "name": "Photoshop Raw File", "ext": ".raw"}, "ott_basic": {"file_kind": ["template"], "tags": ["text"], "download": "ffc.ott", "name": "Open Office Text Template", "ext": ".ott"}, "iff_basic": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.iff", "name": "Interchange File Format", "ext": ".iff"}, "pcx_basic": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.pcx", "name": "Personal Computer Exchange", "ext": ".pcx"}, "xml_basic": {"file_kind": [""], "tags": ["code"], "download": "ffc.xml", "name": "xml", "ext": ".xml"}, "js_basic": {"file_kind": ["code"], "tags": ["code"], "download": "fcc.js", "name": "JavaScript programming language", "ext": ".js"}, "psd_basic": {"file_kind": [""], "tags": ["image"], "download": "ffc.psd", "name": "Photoshop document", "ext": ".psd"}, "jpg_basic": {"file_kind": ["image"], "tags": ["images"], "download": "ffc.jpg", "name": "Joint Photographic Experts Group", "ext": ".jpg, jpeg"}, "svg_basic": {"file_kind": ["image"], "tags": ["images"], "download": "ffc.svg", "name": "Scalable Vector Graphics", "ext": ".svg"}, "pbm_basic": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.pbm", "name": "Netpbm format", "ext": ".pbm"}, "uot_2": {"file_kind": ["text"], "tags": ["text"], "download": "ffc_2.uot", "name": "Uniform Office Format 2 Text", "ext": ".uot"}, "r_basic": {"file_kind": ["code"], "tags": ["code"], "download": "ffc.r", "name": "r", "ext": ".r"}, "docx_basic": {"file_kind": ["document"], "tags": ["text", "Microsoft", "document"], "download": "ffc.docx", "name": "Open XML Microsoft document", "ext": ".docx"}, "txt_basic": {"file_kind": ["text"], "tags": ["text"], "download": "ffc.txt", "name": "Text File", "ext": ".txt"}, "png_basic": {"file_kind": ["image"], "tags": ["images"], "download": "ffc.png", "name": "Portable Network Graphics", "ext": ".png"}, "tiff_basic": {"file_kind": ["image"], "tags": ["images"], "download": "ffc.tif", "name": "Tagged Image File Format", "ext": ".tiff"}, "psb_basic": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.psb", "name": "Photoshop file", "ext": ".psb"}, "ppt_basic": {"file_kind": ["presentation"], "tags": ["image", "Microsoft"], "download": "ffc.ppt", "name": "Microsoft PowerPoint", "ext": ".ppt"}, "doc_95": {"file_kind": ["document"], "tags": ["text", "Microsoft", "document"], "download": "ffc_95.doc", "name": "Microsoft 95 Document", "ext": ".doc"}, "dcm_basic": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.dcm", "name": "Digital Imaging and Communications in Medicine", "ext": ".dcm"}, "xls_basic": {"file_kind": ["spreadsheet"], "tags": ["data", "Microsoft"], "download": "ffc.xls", "name": "Excel Binary", "ext": ".xls"}, "python_basic": {"file_kind": ["code"], "tags": ["code"], "download": "ffc.py", "name": "python", "ext": ".py"}, "RData_basic": {"file_kind": ["program data"], "tags": ["code"], "download": "ffc.RData", "name": "Stored R Object", "ext": ".RData"}, "pct_basic": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.pct", "name": "Macintosh picture metafile", "ext": ".pict, .pic, .pct"}, "xlsx_basic": {"file_kind": ["spreadsheet"], "tags": ["data", "Microsoft"], "download": "ffc.xlsx", "name": "Open XML Microsoft spreadsheet", "ext": ".xlsx"}, "mako_basic": {"file_kind": ["web"], "tags": ["code"], "download": "None!", "name": "Mako Python template engine", "ext": ".mako"}, "uos_2": {"file_kind": ["spreadsheet"], "tags": ["data"], "download": "ffc_2.uos", "name": "Uniform Office Format 2 Spreadsheetp", "ext": ".uos"}, "ipynb_basic": {"file_kind": ["program data"], "tags": ["code"], "download": "ffc.ipynb", "name": "IPython Notebook", "ext": ".ipynb"}, "dta_13": {"file_kind": ["data frame"], "tags": ["data"], "download": "ffc_13.dta", "name": "STATA Data Version 13", "ext": ".dta"}, "R_basic": {"file_kind": ["code"], "tags": ["code"], "download": "ffc.R", "name": "R programming language", "ext": ".R"}, "bmp_basic": {"file_kind": ["image"], "tags": ["images"], "download": "ffc.bmp", "name": "Windows bitmap", "ext": ".bmp"}, "doc_6": {"file_kind": ["document"], "tags": ["text", "Microsoft", "document"], "download": "ffc_6.doc", "name": "Microsoft 6.0 Document", "ext": ".doc"}, "css_basic": {"file_kind": ["web"], "tags": ["code"], "download": "ffc.css", "name": "css", "ext": ".css"}, "psw_basic": {"file_kind": ["document"], "tags": ["text"], "download": "ffc.psw", "name": "Pocket Word", "ext": ".psw"}, "tga_basic": {"file_kind": ["image"], "tags": ["image"], "download": "ffc.tga", "name": "Truevision TGA", "ext": ".tga"}, "ods_basic": {"file_kind": ["spreadsheet"], "tags": ["data"], "download": "ffc.ods", "name": "Open Office Spreadsheet", "ext": ".ods"}, "slk_basic": {"file_kind": ["data"], "tags": ["data"], "download": "ffc.slk", "name": "SYmbolic LinK", "ext": ".slk"}, "sxw_basic": {"file_kind": ["document"], "tags": ["image"], "download": "ffc.sxw", "name": "Open Office XML Text Document", "ext": ".sxw"}, "json_basic": {"file_kind": ["data"], "tags": ["data", "code"], "download": "ffc.json", "name": "JavaScript Object Notation", "ext": ".json"}, "gif_basic": {"file_kind": ["image"], "tags": ["images"], "download": "ffc.gif", "name": "Graphics Interchange Format", "ext": ".gif"}, "dbf_basic": {"file_kind": ["data frame"], "tags": ["data"], "download": "ffc.dbf", "name": "DataBase File", "ext": ".dbf"}, "dta_12": {"file_kind": ["data frame"], "tags": ["data"], "download": "ffc_12.dta", "name": "STATA Data Version 12", "ext": ".dta"}, "sxc_basic": {"file_kind": ["spreadsheet"], "tags": ["data"], "download": "ffc.sxc", "name": "Open Office XML Spreadsheet", "ext": ".sxc"}, "ots_basic": {"file_kind": ["template"], "tags": ["data"], "download": "ffc.odt", "name": "Open Office Spreadsheet Template", "ext": ".ots"}, "pptx_basic": {"file_kind": ["presentation"], "tags": ["image", "Microsoft"], "download": "ffc.pptx", "name": "Open XML Microsoft PowerPoint", "ext": ".pptx"}, "uos_1": {"file_kind": ["spreadsheet"], "tags": ["data"], "download": "ffc_1.uos", "name": "Uniform Office Format Spreadsheet", "ext": ".uos"}, "pdb_palm": {"file_kind": ["document"], "tags": ["text"], "download": "ffc_palm.pdb", "name": "AportisDoc (Palm)", "ext": ".pdb"}, "stw_basic": {"file_kind": ["template"], "tags": ["image"], "download": "ffc.stw", "name": "Open Office XML Text Template", "ext": ".stw"}, "doc_97_2000_xp": {"file_kind": ["document"], "tags": ["text", "Microsoft", "document"], "download": "ffc_97_2000_xp.doc", "name": "Microsoft 97, 2000, and XP Document", "ext": ".doc"}, "xml_docbook": {"file_kind": ["document"], "tags": ["text"], "download": "ffc_docbook.xml", "name": "XML Docbook", "ext": ".xml"}, "txt_utf-8": {"file_kind": ["text"], "tags": ["text"], "download": "ffc_utf-8.txt", "name": "Text File encoded as utf-8", "ext": ".txt"}, "html_basic": {"file_kind": [""], "tags": ["code"], "download": "fcc.html", "name": "HyperText Markup Language", "ext": ".html"}, "dif_basic": {"file_kind": ["data frame"], "tags": ["data"], "download": "ffc.dif", "name": "Data Interchange Format", "ext": ".dif"}, "pdf_basic": {"file_kind": ["document"], "tags": ["text"], "download": "ffc.pdf", "name": "Portable Document Format", "ext": ".pdf"}, "sav_basic": {"file_kind": ["data frame"], "tags": ["data"], "download": "ffc.sav", "name": "SPSS Data", "ext": ".sav"}, "xml_word_2003": {"file_kind": ["document"], "tags": ["text", "Microsoft"], "download": "ffc_word_2003.xml", "name": "Microsoft Word 2003 XML", "ext": ".xml"}, "rtf_basic": {"file_kind": ["text"], "tags": ["text"], "download": "ffc.rtf", "name": "Rich Text Format", "ext": ".rtf"}}
+{
+    "gif_basic": {
+        "file_type": "Graphics Interchange Format",
+        "ext": ".gif",
+        "tags": [
+            "images"
+        ],
+        "file_name": "ffc.gif"
+    },
+    "odt_basic": {
+        "file_type": "Open Office Text Document",
+        "ext": ".odt",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc.odt"
+    },
+    "csv_basic": {
+        "file_type": "Comma-Separated Values",
+        "ext": ".csv",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.csv"
+    },
+    "dcm_basic": {
+        "file_type": "Digital Imaging and Communications in Medicine",
+        "ext": ".dcm",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.dcm"
+    },
+    "pxr_basic": {
+        "file_type": "Pixar Image Computer",
+        "ext": ".pxr",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.pxr"
+    },
+    "stc_basic": {
+        "file_type": "Open Office XML Spreadsheet Template",
+        "ext": ".stc",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.stc"
+    },
+    "assembly_x86_basic": {
+        "file_type": "assembly_x86",
+        "ext": ".asm",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.asm"
+    },
+    "pdb_palm": {
+        "file_type": "AportisDoc (Palm)",
+        "ext": ".pdb",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc_palm.pdb"
+    },
+    "raw_ps": {
+        "file_type": "Photoshop Raw File",
+        "ext": ".raw",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.raw"
+    },
+    "ott_basic": {
+        "file_type": "Open Office Text Template",
+        "ext": ".ott",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc.ott"
+    },
+    "ada_basic": {
+        "file_type": "ada",
+        "ext": ".ada",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.ada"
+    },
+    "docx_basic": {
+        "file_type": "Open XML Microsoft document",
+        "ext": ".docx",
+        "tags": [
+            "text",
+            "Microsoft"
+        ],
+        "file_name": "ffc.docx"
+    },
+    "autohotkey_basic": {
+        "file_type": "autohotkey",
+        "ext": ".ahk",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.ahk"
+    },
+    "pcx_basic": {
+        "file_type": "Personal Computer Exchange",
+        "ext": ".pcx",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.pcx"
+    },
+    "R_basic": {
+        "file_type": "R programming language",
+        "ext": ".R",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.R"
+    },
+    "xml_basic": {
+        "file_type": "xml",
+        "ext": ".xml",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.xml"
+    },
+    "psd_basic": {
+        "file_type": "Photoshop document",
+        "ext": ".psd",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.psd"
+    },
+    "eps_basic": {
+        "file_type": "Ecapsulated PostScript",
+        "ext": ".eps",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.eps"
+    },
+    "txt_basic": {
+        "file_type": "Text File",
+        "ext": ".txt",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc.txt"
+    },
+    "svg_basic": {
+        "file_type": "Scalable Vector Graphics",
+        "ext": ".svg",
+        "tags": [
+            "images"
+        ],
+        "file_name": "ffc.svg"
+    },
+    "pbm_basic": {
+        "file_type": "Netpbm format",
+        "ext": ".pbm",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.pbm"
+    },
+    "uot_2": {
+        "file_type": "Uniform Office Format 2 Text",
+        "ext": ".uot",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc_2.uot"
+    },
+    "iff_basic": {
+        "file_type": "Interchange File Format",
+        "ext": ".iff",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.iff"
+    },
+    "png_basic": {
+        "file_type": "Portable Network Graphics",
+        "ext": ".png",
+        "tags": [
+            "images"
+        ],
+        "file_name": "ffc.png"
+    },
+    "py_basic": {
+        "file_type": "Python programming language",
+        "ext": ".py",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.py"
+    },
+    "plaintext_basic": {
+        "file_type": "plaintext",
+        "ext": ".txt",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.txt"
+    },
+    "ppt_basic": {
+        "file_type": "Microsoft PowerPoint",
+        "ext": ".ppt",
+        "tags": [
+            "image",
+            "Microsoft"
+        ],
+        "file_name": "ffc.ppt"
+    },
+    "doc_95": {
+        "file_type": "Microsoft 95 Document",
+        "ext": ".doc",
+        "tags": [
+            "text",
+            "Microsoft"
+        ],
+        "file_name": "ffc_95.doc"
+    },
+    "html_basic": {
+        "file_type": "HyperText Markup Language",
+        "ext": ".html",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.html"
+    },
+    "xls_basic": {
+        "file_type": "Excel Binary",
+        "ext": ".xls",
+        "tags": [
+            "data",
+            "Microsoft"
+        ],
+        "file_name": "ffc.xls"
+    },
+    "python_basic": {
+        "file_type": "python",
+        "ext": ".py",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.py"
+    },
+    "RData_basic": {
+        "file_type": "Stored R Object",
+        "ext": ".RData",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.RData"
+    },
+    "pct_basic": {
+        "file_type": "Macintosh picture metafile",
+        "ext": ".pict, .pic, .pct",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.pct"
+    },
+    "xlsx_basic": {
+        "file_type": "Open XML Microsoft spreadsheet",
+        "ext": ".xlsx",
+        "tags": [
+            "data",
+            "Microsoft"
+        ],
+        "file_name": "ffc.xlsx"
+    },
+    "AsciiDoc_basic": {
+        "file_type": "AsciiDoc",
+        "ext": ".asciidoc",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.asciidoc"
+    },
+    "pptx_basic": {
+        "file_type": "Open XML Microsoft PowerPoint",
+        "ext": ".pptx",
+        "tags": [
+            "image",
+            "Microsoft"
+        ],
+        "file_name": "ffc.pptx"
+    },
+    "tga_basic": {
+        "file_type": "Truevision TGA",
+        "ext": ".tga",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.tga"
+    },
+    "bmp_basic": {
+        "file_type": "Windows bitmap",
+        "ext": ".bmp",
+        "tags": [
+            "images"
+        ],
+        "file_name": "ffc.bmp"
+    },
+    "doc_6": {
+        "file_type": "Microsoft 6.0 Document",
+        "ext": ".doc",
+        "tags": [
+            "text",
+            "Microsoft"
+        ],
+        "file_name": "ffc_6.doc"
+    },
+    "cpp_basic": {
+        "file_type": "cpp",
+        "ext": ".cpp",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.cpp"
+    },
+    "jpg_basic": {
+        "file_type": "Joint Photographic Experts Group",
+        "ext": ".jpg, jpeg",
+        "tags": [
+            "images"
+        ],
+        "file_name": "ffc.jpg"
+    },
+    "psw_basic": {
+        "file_type": "Pocket Word",
+        "ext": ".psw",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc.psw"
+    },
+    "uos_2": {
+        "file_type": "Uniform Office Format 2 Spreadsheetp",
+        "ext": ".uos",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc_2.uos"
+    },
+    "ods_basic": {
+        "file_type": "Open Office Spreadsheet",
+        "ext": ".ods",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.ods"
+    },
+    "psb_basic": {
+        "file_type": "Photoshop file",
+        "ext": ".psb",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.psb"
+    },
+    "slk_basic": {
+        "file_type": "SYmbolic LinK",
+        "ext": ".slk",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.slk"
+    },
+    "sxw_basic": {
+        "file_type": "Open Office XML Text Document",
+        "ext": ".sxw",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.sxw"
+    },
+    "rtf_basic": {
+        "file_type": "Rich Text Format",
+        "ext": ".rtf",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc.rtf"
+    },
+    "tiff_basic": {
+        "file_type": "Tagged Image File Format",
+        "ext": ".tiff",
+        "tags": [
+            "images"
+        ],
+        "file_name": "ffc.tif"
+    },
+    "dbf_basic": {
+        "file_type": "DataBase File",
+        "ext": ".dbf",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.dbf"
+    },
+    "spv_basic": {
+        "file_type": "SPSS Output File",
+        "ext": ".spv",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.spv"
+    },
+    "sxc_basic": {
+        "file_type": "Open Office XML Spreadsheet",
+        "ext": ".sxc",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.sxc"
+    },
+    "ots_basic": {
+        "file_type": "Open Office Spreadsheet Template",
+        "ext": ".ots",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.ots"
+    },
+    "txt_utf-8": {
+        "file_type": "Text File encoded as utf-8",
+        "ext": ".txt",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc_utf-8.txt"
+    },
+    "uos_1": {
+        "file_type": "Uniform Office Format Spreadsheet",
+        "ext": ".uos",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc_1.uos"
+    },
+    "uot_1": {
+        "file_type": "Uniform Office Format Text",
+        "ext": ".uot",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc_1.uot"
+    },
+    "stw_basic": {
+        "file_type": "Open Office XML Text Template",
+        "ext": ".stw",
+        "tags": [
+            "image"
+        ],
+        "file_name": "ffc.stw"
+    },
+    "doc_97_2000_xp": {
+        "file_type": "Microsoft 97, 2000, and XP Document",
+        "ext": ".doc",
+        "tags": [
+            "text",
+            "Microsoft"
+        ],
+        "file_name": "ffc_97_2000_xp.doc"
+    },
+    "dta_13": {
+        "file_type": "STATA Data Version 13",
+        "ext": ".dta",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc_13.dta"
+    },
+    "actionscript_basic": {
+        "file_type": "actionscript",
+        "ext": ".as",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.as"
+    },
+    "c_cpp_basic": {
+        "file_type": "c_cpp",
+        "ext": ".cpp",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.cpp"
+    },
+    "dif_basic": {
+        "file_type": "Data Interchange Format",
+        "ext": ".dif",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.dif"
+    },
+    "pdf_basic": {
+        "file_type": "Portable Document Format",
+        "ext": ".pdf",
+        "tags": [
+            "text"
+        ],
+        "file_name": "ffc.pdf"
+    },
+    "sav_basic": {
+        "file_type": "SPSS Data",
+        "ext": ".sav",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc.sav"
+    },
+    "dta_12": {
+        "file_type": "STATA Data Version 12",
+        "ext": ".dta",
+        "tags": [
+            "data"
+        ],
+        "file_name": "ffc_12.dta"
+    },
+    "xml_word_2003": {
+        "file_type": "Microsoft Word 2003 XML",
+        "ext": ".xml",
+        "tags": [
+            "text",
+            "Microsoft"
+        ],
+        "file_name": "ffc_word_2003.xml"
+    },
+    "batchfile_basic": {
+        "file_type": "batchfile",
+        "ext": ".bat",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.bat"
+    },
+    "abap_basic": {
+        "file_type": "abap",
+        "ext": ".abap",
+        "tags": [
+            "code"
+        ],
+        "file_name": "ffc.abap"
+    }
+}
