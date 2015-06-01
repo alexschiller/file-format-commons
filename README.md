@@ -1,10 +1,19 @@
 # file-format-commons
-This repo contains sample files of various file format. This project originated when I needed a variety of sample files of various web-renderable types (e.g., xlsx, csv, images, etc).
+This repo contains sample/example files of various file formats. This project originated when I needed a variety of sample files of various web-renderable types (e.g., xlsx, csv, images, etc). I ended up creating a bunch more than I needed and figured it might be useful for other people.
 
-file_info.json contains four things(seen below): 
-    name, tags, ext (extention), and download (file name in the files folder).
+CONTRIBUTING:
 
-This repo currently contains over 60 files. Some are different encodings of the same file type as you can see below (see ".doc" below for an example).
+If you want to submit a file format that I do not currently have you must send a PR that:
+1. Adds the new file to the files folder
+2. Updates the table below
+3. Updates the files_info.json
+4. Include a brief description of what the file type is (in case I'm not familiar with it)
+5. Verify that you have the proper rights to post the file and are willing to make it available per the licensing of this repo.
+
+file_info.json contains four things(seen below in table form): 
+    file_type, tags, ext (extention), and file_name (the name of the file in the files folder).
+
+This repo currently contains almost 70 sample files. Some are different encodings of the same file type as you can see below (see ".doc" below for an example).
 
 | ext  | File Type              | File Name            |  Tags        |
 |------|--------------------------|-------------------|-------------|
