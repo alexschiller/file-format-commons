@@ -1,7 +1,7 @@
 # file-format-commons
 This repo contains sample/example files of various file formats. This project originated when I needed a variety of sample files of various web-renderable types (e.g., xlsx, csv, images, etc). I ended up creating a bunch more than I needed and figured it might be useful for other people.
 
-These files and more can be found at www.fileformatcommons.com
+~~These files and more can be found at www.fileformatcommons.com~~ deprecated
 
 file_info.json contains four things(seen below in table form): 
     file_type, tags, ext (extention), and file_name (the name of the file in the files folder).
